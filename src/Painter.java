@@ -10,6 +10,7 @@ public class Painter
       application.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
       application.setSize(500, 400);
       application.setVisible(true);
+      System.out.println("Fgfggfg");
    } // end main
 } // end class Painter
 
